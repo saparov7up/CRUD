@@ -1,12 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text.Json;
+using _2._2dars.Models;
 
-namespace _2._2dars.Services
+namespace _2._2dars.Services;
+
+public class TeacherService
 {
-    internal class TeacherService
+    private string teacherFilePath;
+
+    public TeacherService()
     {
+        teacherFilePath = "../../../Data/teachers.json";
+        File.WriteAllText(teacherFilePath, "[]");
     }
+
 }
