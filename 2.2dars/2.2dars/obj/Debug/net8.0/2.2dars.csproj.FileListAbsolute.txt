@@ -1,0 +1,14 @@
+D:\My Projects\CRUD\2.2dars\2.2dars\bin\Debug\net8.0\2.2dars.exe
+D:\My Projects\CRUD\2.2dars\2.2dars\bin\Debug\net8.0\2.2dars.deps.json
+D:\My Projects\CRUD\2.2dars\2.2dars\bin\Debug\net8.0\2.2dars.runtimeconfig.json
+D:\My Projects\CRUD\2.2dars\2.2dars\bin\Debug\net8.0\2.2dars.dll
+D:\My Projects\CRUD\2.2dars\2.2dars\bin\Debug\net8.0\2.2dars.pdb
+D:\My Projects\CRUD\2.2dars\2.2dars\obj\Debug\net8.0\2.2dars.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\CRUD\2.2dars\2.2dars\obj\Debug\net8.0\2.2dars.AssemblyInfoInputs.cache
+D:\My Projects\CRUD\2.2dars\2.2dars\obj\Debug\net8.0\2.2dars.AssemblyInfo.cs
+D:\My Projects\CRUD\2.2dars\2.2dars\obj\Debug\net8.0\2.2dars.csproj.CoreCompileInputs.cache
+D:\My Projects\CRUD\2.2dars\2.2dars\obj\Debug\net8.0\2.2dars.dll
+D:\My Projects\CRUD\2.2dars\2.2dars\obj\Debug\net8.0\refint\2.2dars.dll
+D:\My Projects\CRUD\2.2dars\2.2dars\obj\Debug\net8.0\2.2dars.pdb
+D:\My Projects\CRUD\2.2dars\2.2dars\obj\Debug\net8.0\2.2dars.genruntimeconfig.cache
+D:\My Projects\CRUD\2.2dars\2.2dars\obj\Debug\net8.0\ref\2.2dars.dll
