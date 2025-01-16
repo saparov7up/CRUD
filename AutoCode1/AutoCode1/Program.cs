@@ -1,10 +1,12 @@
-﻿namespace AutoCode1
+﻿using NUnit.Framework;
+
+public class CalculatorTests
 {
-    internal class Program
+    [Test]
+    public void Add_ShouldReturnSum()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        var calculator = new Calculator();
+        var result = calculator.Add(2, 3);
+        Assert.AreEqual(5, result);
     }
 }

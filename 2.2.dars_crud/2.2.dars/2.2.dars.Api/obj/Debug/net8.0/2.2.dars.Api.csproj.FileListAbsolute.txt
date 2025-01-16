@@ -1,0 +1,5 @@
+D:\My Projects\CRUD\2.2.dars_crud\2.2.dars\2.2.dars.Api\obj\Debug\net8.0\2.2.dars.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\CRUD\2.2.dars_crud\2.2.dars\2.2.dars.Api\obj\Debug\net8.0\2.2.dars.Api.AssemblyInfoInputs.cache
+D:\My Projects\CRUD\2.2.dars_crud\2.2.dars\2.2.dars.Api\obj\Debug\net8.0\2.2.dars.Api.AssemblyInfo.cs
+D:\My Projects\CRUD\2.2.dars_crud\2.2.dars\2.2.dars.Api\obj\Debug\net8.0\2.2.dars.Api.csproj.CoreCompileInputs.cache
+D:\My Projects\CRUD\2.2.dars_crud\2.2.dars\2.2.dars.Api\obj\Debug\net8.0\2.2.dars.Api.sourcelink.json

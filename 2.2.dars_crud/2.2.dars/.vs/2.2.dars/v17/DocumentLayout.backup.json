@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|d:\\my projects\\crud\\2.2.dars_crud\\2.2.dars\\2.2.dars.api\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|solutionrelative:2.2.dars.api\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|d:\\my projects\\crud\\2.2.dars_crud\\2.2.dars\\2.2.dars.api\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|solutionrelative:2.2.dars.api\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|d:\\my projects\\crud\\2.2.dars_crud\\2.2.dars\\2.2.dars.api\\services\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|solutionrelative:2.2.dars.api\\services\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|d:\\my projects\\crud\\2.2.dars_crud\\2.2.dars\\2.2.dars.api\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|solutionrelative:2.2.dars.api\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|d:\\my projects\\crud\\2.2.dars_crud\\2.2.dars\\2.2.dars.api\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|solutionrelative:2.2.dars.api\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|d:\\my projects\\crud\\2.2.dars_crud\\2.2.dars\\2.2.dars.api\\data\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|solutionrelative:2.2.dars.api\\data\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|d:\\my projects\\crud\\2.2.dars_crud\\2.2.dars\\2.2.dars.api\\data\\tests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|solutionrelative:2.2.dars.api\\data\\tests.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|d:\\my projects\\crud\\2.2.dars_crud\\2.2.dars\\2.2.dars.api\\data\\teachers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|solutionrelative:2.2.dars.api\\data\\teachers.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|d:\\my projects\\crud\\2.2.dars_crud\\2.2.dars\\2.2.dars.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|solutionrelative:2.2.dars.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|d:\\my projects\\crud\\2.2.dars_crud\\2.2.dars\\2.2.dars.api\\services\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|solutionrelative:2.2.dars.api\\services\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|d:\\my projects\\crud\\2.2.dars_crud\\2.2.dars\\2.2.dars.api\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|solutionrelative:2.2.dars.api\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|d:\\my projects\\crud\\2.2.dars_crud\\2.2.dars\\2.2.dars.api\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|solutionrelative:2.2.dars.api\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|d:\\my projects\\crud\\2.2.dars_crud\\2.2.dars\\2.2.dars.api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|solutionrelative:2.2.dars.api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|d:\\my projects\\crud\\2.2.dars_crud\\2.2.dars\\2.2.dars.api\\2.2.dars.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{518EF8E2-28F5-4C63-8CCC-BBBCBA5F3650}|2.2.dars.Api\\2.2.dars.Api.csproj|solutionrelative:2.2.dars.api\\2.2.dars.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tests.json",
+              "DocumentMoniker": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Data\\Tests.json",
+              "RelativeDocumentMoniker": "2.2.dars.Api\\Data\\Tests.json",
+              "ToolTip": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Data\\Tests.json",
+              "RelativeToolTip": "2.2.dars.Api\\Data\\Tests.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T04:49:05.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teachers.json",
+              "DocumentMoniker": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Data\\Teachers.json",
+              "RelativeDocumentMoniker": "2.2.dars.Api\\Data\\Teachers.json",
+              "ToolTip": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Data\\Teachers.json",
+              "RelativeToolTip": "2.2.dars.Api\\Data\\Teachers.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T04:48:44.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Students.json",
+              "DocumentMoniker": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Data\\Students.json",
+              "RelativeDocumentMoniker": "2.2.dars.Api\\Data\\Students.json",
+              "ToolTip": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Data\\Students.json",
+              "RelativeToolTip": "2.2.dars.Api\\Data\\Students.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T04:47:57.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITestService.cs",
+              "DocumentMoniker": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Services\\ITestService.cs",
+              "RelativeDocumentMoniker": "2.2.dars.Api\\Services\\ITestService.cs",
+              "ToolTip": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Services\\ITestService.cs",
+              "RelativeToolTip": "2.2.dars.Api\\Services\\ITestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:28:52.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Services\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "2.2.dars.Api\\Services\\ITeacherService.cs",
+              "ToolTip": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Services\\ITeacherService.cs",
+              "RelativeToolTip": "2.2.dars.Api\\Services\\ITeacherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:28:18.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "2.2.dars.Api\\Services\\IStudentService.cs",
+              "ToolTip": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Services\\IStudentService.cs",
+              "RelativeToolTip": "2.2.dars.Api\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:28:00.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Services\\TestService.cs",
+              "RelativeDocumentMoniker": "2.2.dars.Api\\Services\\TestService.cs",
+              "ToolTip": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Services\\TestService.cs*",
+              "RelativeToolTip": "2.2.dars.Api\\Services\\TestService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:25:42.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "2.2.dars.Api\\Services\\TeacherService.cs",
+              "ToolTip": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Services\\TeacherService.cs*",
+              "RelativeToolTip": "2.2.dars.Api\\Services\\TeacherService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:25:31.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "2.2.dars.Api\\Services\\StudentService.cs",
+              "ToolTip": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Services\\StudentService.cs*",
+              "RelativeToolTip": "2.2.dars.Api\\Services\\StudentService.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:25:13.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "2.2.dars.Api\\Models\\Test.cs",
+              "ToolTip": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Models\\Test.cs",
+              "RelativeToolTip": "2.2.dars.Api\\Models\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:24:54.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "2.2.dars.Api\\Models\\Teacher.cs",
+              "ToolTip": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Models\\Teacher.cs",
+              "RelativeToolTip": "2.2.dars.Api\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:24:43.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "2.2.dars.Api\\Models\\Student.cs",
+              "ToolTip": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Models\\Student.cs",
+              "RelativeToolTip": "2.2.dars.Api\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:24:13.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "2.2.dars.Api",
+              "DocumentMoniker": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\2.2.dars.Api.csproj",
+              "RelativeDocumentMoniker": "2.2.dars.Api\\2.2.dars.Api.csproj",
+              "ToolTip": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\2.2.dars.Api.csproj",
+              "RelativeToolTip": "2.2.dars.Api\\2.2.dars.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T04:23:20.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Program.cs",
+              "RelativeDocumentMoniker": "2.2.dars.Api\\Program.cs",
+              "ToolTip": "D:\\My Projects\\CRUD\\2.2.dars_crud\\2.2.dars\\2.2.dars.Api\\Program.cs*",
+              "RelativeToolTip": "2.2.dars.Api\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:21:54.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

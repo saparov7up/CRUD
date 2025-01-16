@@ -1,0 +1,5 @@
+D:\My Projects\CRUD\AutoCode1\AutoCode1\obj\Debug\net8.0\AutoCode1.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Projects\CRUD\AutoCode1\AutoCode1\obj\Debug\net8.0\AutoCode1.AssemblyInfoInputs.cache
+D:\My Projects\CRUD\AutoCode1\AutoCode1\obj\Debug\net8.0\AutoCode1.AssemblyInfo.cs
+D:\My Projects\CRUD\AutoCode1\AutoCode1\obj\Debug\net8.0\AutoCode1.csproj.CoreCompileInputs.cache
+D:\My Projects\CRUD\AutoCode1\AutoCode1\obj\Debug\net8.0\AutoCode1.sourcelink.json
